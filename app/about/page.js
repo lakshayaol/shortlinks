@@ -17,7 +17,7 @@ export default function About() {
           Be it sharing that resume link with a potential employer, last night revision notes with a friend, or just tidying up your social media posts, ShortLinks is here to help you streamline your online sharing experience.
         </p>
         <p className="text-base sm:text-lg mb-4">
-          Whether you're a casual user or a professional, ShortLinks helps you quickly convert long URLs into neat, shareable links—no login, no subscriptions, just instant results.
+          Whether you&rsquo;re a casual user or a professional, ShortLinks helps you quickly convert long URLs into neat, shareable links—no login, no subscriptions, just instant results.
         </p>
         <p className="text-base sm:text-lg mb-8">
           This platform was developed by <span className="font-bold text-emerald-800">Lakshay Aol</span>, a final year student at <span className="font-bold text-emerald-800">Netaji Subhas University of Technology</span>. As a full-stack developer, I am passionate about creating efficient, scalable web solutions and delivering seamless user experiences while providing solutions to real world problems, as I tried to provide in this project.
