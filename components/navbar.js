@@ -41,14 +41,14 @@ const Navbar = () => {
 
           <div className='flex items-center text-base gap-4'>
             <Link href="https://www.linkedin.com/in/lakshay-aol/" target="_blank">
-              <button className="bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center">
+              <button className="bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center cursor-pointer">
                 <Image src="/linkedin.svg" alt="LinkedIn Logo" width={20} height={20} className="mr-2" />
                 LinkedIn
               </button>
             </Link>
 
             <Link href="https://github.com/lakshayaol" target='_blank'>
-              <button className='bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center'>
+              <button className='bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center cursor-pointer'>
                 <Image src="/Github.svg" alt="GitHub Logo" width={20} height={20} className='mr-2' />
                 GitHub
               </button>
@@ -68,14 +68,14 @@ const Navbar = () => {
 
           <div className='flex justify-center gap-4 pt-4'>
             <Link href="https://www.linkedin.com/in/lakshay-aol/" target="_blank">
-              <button className="bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center">
+              <button className="bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center cursor-pointer">
                 <Image src="/linkedin.svg" alt="LinkedIn Logo" width={20} height={20} className="mr-2" />
                 LinkedIn
               </button>
             </Link>
 
             <Link href="https://github.com/lakshayaol" target='_blank'>
-              <button className='bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center'>
+              <button className='bg-emerald-50 text-emerald-800 shadow-lg px-4 py-2 rounded-lg font-bold flex items-center min-w-[120px] justify-center cursor-pointer'>
                 <Image src="/Github.svg" alt="GitHub Logo" width={20} height={20} className='mr-2' />
                 GitHub
               </button>
