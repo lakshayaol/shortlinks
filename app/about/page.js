@@ -37,7 +37,7 @@ export default function About() {
         </div>
 
         <Image
-          src="/Happy developer.jpg"
+          src="/happy developer.jpg"
           alt="Illustration of working professional"
           width={800}
           height={400}
