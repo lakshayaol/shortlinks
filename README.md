@@ -49,7 +49,7 @@ ShortLinks is a fast, user-friendly, and privacy-focused URL shortener built wit
 - **Next.js 14 (App Router)**
 - **React 18**
 - **Tailwind CSS**
-- **Vercel Hosting (Recommended)**
+- **Vercel Hosting**
 - `fetch` API for simple backend interaction
 
 ---
